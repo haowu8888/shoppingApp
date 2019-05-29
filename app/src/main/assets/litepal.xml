@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+   <dbname value="chaoshiapp"></dbname>
+   <version value="7"></version>
+    <list>
+        <mapping class="com.example.chaoshiapp.bean.User"/>
+        <mapping class="com.example.chaoshiapp.model.Dish"/>
+        <mapping class="com.example.chaoshiapp.model.DishMenu"/>
+        <mapping class="com.example.chaoshiapp.model.ShopCart"/>
+        <mapping class="com.example.chaoshiapp.shoppingcartactivity.ShoppingCartBean"/>
+
+    </list>
+</litepal>

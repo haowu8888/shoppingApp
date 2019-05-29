@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+//自定义toolbar属性
+    <declare-styleable name="CnToolbar">
+//右侧图标
+        <attr name="rightButtonIcon" format="reference"/>
+        //搜索图标
+        <attr name="isShowSearchView" format="boolean"/>
+
+    </declare-styleable>
+</resources>
